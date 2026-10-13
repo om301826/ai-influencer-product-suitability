@@ -144,8 +144,8 @@ The reported results do not establish that influencer selection causes increased
 
 The paper also notes that the original modelling source code is unavailable and that no deployed implementation is reported.
 
-## 📜 Disclaimer
+## Research Status
 
-This repository documents the research paper and its reported findings. The reported metrics are reproduced from the paper and are not independently verified here.
+**Status:** Work in Progress
 
-The repository does not claim that the complete system has been deployed or that the reported findings generalize to all influencers, products, or marketing platforms.
+This research is currently under development. Further work may include refining the methodology, validating the findings, and exploring future implementation possibilities.
